@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "eCube_lib")(type "KiCad")(uri "${KIPRJMOD}/eCube_lib.kicad_sym")(options "")(descr ""))
+)
